@@ -16,7 +16,7 @@ User has to pick the tip percentage
 - [ ] Create a funtion that gets different tip percentage inputs from the segment control
 - [ ] Connect the segment control to the function that calculates the amount of the tip (it uses bill amount and tip percentage)
 
-## Tip-Calculator Part 2
+## Tip-Calculator Part 3
 App tell the user the tip amount and the total amount
 
 ### Required
