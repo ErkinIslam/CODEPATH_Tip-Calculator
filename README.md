@@ -24,4 +24,4 @@ App tell the user the tip amount and the total amount
 - [ ] Print the total amount
 
 #### GIF
-<img scr="http://g.recordit.co/E9XUiy4mkg.gif" width=250><br>
+<img src="http://g.recordit.co/E9XUiy4mkg.gif" width=250><br>
